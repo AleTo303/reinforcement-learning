@@ -4,3 +4,10 @@ the main idea is to create a model including social interactions and global rewa
 
 the model is currently ongoing and is not guaranteeed to be working atm
 
+change log:
+
+-added ema to matrix weight for curriculum learning
+
+-
+
+
